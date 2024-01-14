@@ -1,4 +1,4 @@
-![logo](https://github.com/Apshaya/Krishan-Apshaya/blob/main/meprofile.png)
+![logo](https://github.com/Apshaya/Krishan-Apshaya/blob/main/ME.png)
 <h1 align="center">Hi 👋, I'm Krishan Apshaya</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
