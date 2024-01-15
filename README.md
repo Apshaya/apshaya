@@ -1,6 +1,6 @@
 ![logo](https://github.com/Apshaya/Krishan-Apshaya/blob/main/MEe.png)
 <h1 align="center">Hi 👋, I'm Krishan Apshaya</h1>
-<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+<h3 align="center">A undergraduate Software Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apshaya&label=Profile%20views&color=0e75b6&style=flat" alt="apshaya" /> </p>
 
