@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apshaya](https://github.com/Apshaya)
 
-- 📝 I regularly write articles on [https://sldeem.blogspot.com/](https://sldeem.blogspot.com/)
-
 - 📫 How to reach me **akrishten0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
