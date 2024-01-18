@@ -22,7 +22,7 @@
 <p>Frontend Technologies
  <p>
  <p>
- HTML, CSS, JavaScript
+ &rarr; HTML, CSS, JavaScript
 <p>
   <br>
 <p>Backend Technologies
