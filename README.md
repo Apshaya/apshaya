@@ -35,7 +35,9 @@
 Tools
 <p>
  &rarr;IDEs &diams; Visual Studio, Eclipse, IntelliJ IDEA
+ <br>
  &rarr;Tracking &diams; jira
+ <br>
  &rarr;VC Systems &diams;GitHub
 <p>
  <br>
