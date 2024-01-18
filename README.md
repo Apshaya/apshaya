@@ -32,9 +32,7 @@
  <br>
 <p>Tools</p>
 <p> &rarr;IDEs &diams; Visual Studio, Eclipse, IntelliJ IDEA</p>
- <br>
 <p> &rarr;Tracking &diams; jira</p>
- <br>
 <p>&rarr;VC Systems &diams;GitHub</p>
 
  <br>
