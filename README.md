@@ -27,7 +27,7 @@
   <br>
 <p>Backend Technologies</p>
 <p>
- &rarr;Java, MySQL, PHP, python, c++
+ &rarr;Nodejs, Expressjs, Mongodb , Java, MySQL, PHP, python, c++
 </p>
  <br>
 <p>Tools</p>
