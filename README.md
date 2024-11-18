@@ -1,6 +1,6 @@
 ![logo](https://github.com/Apshaya/Krishan-Apshaya/blob/main/MEe.png)
 <h1 align="center">Hi 👋, I'm Krishan Apshaya</h1>
-<P align="center">I am 3rd Year undergraduate Software Engineering student. I am enthusiastic about applying my academic knowledge to real-world challenges in the field. Most like in languages such as Java, Html, Css, c# and Sql query languages. I have honed my skills in software development, algorithms, and database management. During my studies, I actively engaged in projects that enhanced my problem-solving abilities and collaborative skills. I am ready to contribute my technical expertise to dynamic teams, embrace new challenges, and continue my growth within the everevolving landscape of software engineering.</P>
+<P align="center">I am undergraduate Software Engineering student. I am enthusiastic about applying my academic knowledge to real-world challenges in the field. Most like in languages such as Java, Html, Css, c# and Sql query languages. I have honed my skills in software development, algorithms, and database management. During my studies, I actively engaged in projects that enhanced my problem-solving abilities and collaborative skills. I am ready to contribute my technical expertise to dynamic teams, embrace new challenges, and continue my growth within the everevolving landscape of software engineering.</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apshaya&label=Profile%20views&color=0e75b6&style=flat" alt="apshaya" /> </p>
 
