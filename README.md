@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Apshaya](https://github.com/Apshaya)
 
-- 📫 How to reach me **akrishten0@gmail.com**
+- 📫 How to reach me **apshayak.101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
