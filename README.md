@@ -1,6 +1,10 @@
 ![logo](https://github.com/Apshaya/Krishan-Apshaya/blob/main/MEe.png)
 <h1 align="center">Hi 👋, I'm Krishan Apshaya</h1>
-<P align="center">I am undergraduate Software Engineering student. I am enthusiastic about applying my academic knowledge to real-world challenges in the field. Most like in languages such as Java, Html, Css, c# and Sql query languages. I have honed my skills in software development, algorithms, and database management. During my studies, I actively engaged in projects that enhanced my problem-solving abilities and collaborative skills. I am ready to contribute my technical expertise to dynamic teams, embrace new challenges, and continue my growth within the everevolving landscape of software engineering.</P>
+<P align="center">As a passionate Full-Stack Software Engineer, I specialize in building scalable IoT cloud solutions and microservices architectures. With hands-on experience at RootLogitech and currently working at VisionDesigning, I have developed expertise in creating robust backend APIs with Node.js and Python, integrating AWS IoT services (IoT Core, Lambda, SQS, S3), and deploying containerized microservices with Docker and Kubernetes in local environments.
+
+Currently, I'm expanding my expertise in mobile application development with React Native and diving deeper into AWS cloud services including DynamoDB and Cognito. My journey involves building cross-platform mobile apps, implementing serverless architectures, and working on AI-powered solutions like e-commerce chatbots using Grok API.
+
+I thrive in collaborative Agile environments and am constantly learning whether mastering new frameworks, exploring DevOps practices, or diving into emerging technologies like blockchain and AI/ML. My approach combines technical excellence with a commitment to staying current with industry trends.</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apshaya&label=Profile%20views&color=0e75b6&style=flat" alt="apshaya" /> </p>
 
