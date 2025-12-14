@@ -22,12 +22,22 @@
  
 <p>Frontend Technologies</p>
 <p>
- &rarr; HTML, CSS, JavaScript
+ &rarr; Reactjs, Nextjs, React Native, HTML, CSS, JavaScript
 </p>
   <br>
 <p>Backend Technologies</p>
 <p>
  &rarr;Nodejs, Expressjs, Mongodb , Java, MySQL, PHP, python, c++
+</p>
+ <br>
+ <p>Cloud</p>
+<p>
+ &rarr;AWS IOT Core, lambda, sqs , s3 bucket, dynamodb, cognito, azure iot hub
+</p>
+ <br>
+  <p>Development</p>
+<p>
+ &rarr;Docker, kubernetes, CI/CD(Processing)
 </p>
  <br>
 <p>Tools</p>
