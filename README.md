@@ -100,10 +100,11 @@ Second Class Upper Division · GPA 3.4
 <a href="https://www.linkedin.com/in/krishan-apshaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishan apshaya" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apshaya&show_icons=true&locale=en&layout=compact" alt="apshaya" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apshaya&show_icons=true&locale=en" alt="apshaya github stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apshaya&show_icons=true&locale=en&layout=compact" alt="apshaya top languages" width="49%" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apshaya&show_icons=true&locale=en" alt="apshaya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apshaya&" alt="apshaya" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apshaya&" alt="apshaya streak stats" width="70%" />
+</p>
