@@ -58,11 +58,11 @@ Second Class Upper Division · GPA 3.4
 ### Skills
 
 **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS<br>
-**Backend:** Java, Node.js, Express.js, .NET, Python, RESTful APIs, MVC
-**AI/ML:** OpenAI, AI API Integration, AI-powered Applications
-**Cloud & IoT:** AWS Lambda, IoT Core, SQS, S3, DynamoDB, Azure IoT Hub
-**Databases:** MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, SQLite
-**DevOps & Tools:** Docker, Kubernetes, Git, GitHub, Bitbucket, Postman, Jira, ClickUp
+**Backend:** Java, Node.js, Express.js, .NET, Python, RESTful APIs, MVC<br>
+**AI/ML:** OpenAI, AI API Integration, AI-powered Applications<br>
+**Cloud & IoT:** AWS Lambda, IoT Core, SQS, S3, DynamoDB, Azure IoT Hub<br>
+**Databases:** MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, SQLite<br>
+**DevOps & Tools:** Docker, Kubernetes, Git, GitHub, Bitbucket, Postman, Jira, ClickUp<br>
 **Testing & Integration:** Jest, Unit Testing, Integration Testing, API Testing, Stripe, JWT, Nodemailer, WhatsApp Integration
 
 <p align="left">
