@@ -22,7 +22,7 @@ Software Engineer with hands-on experience building full-stack web and mobile ap
 
 ---
 
-### 💼 Work Experience
+### Work Experience
 
 Over **1.5+ years** of professional experience as a Software Engineer, progressing from an internship to full-time roles across full-stack web development, IoT systems, and cross-platform mobile applications.
 
@@ -35,7 +35,7 @@ Over **1.5+ years** of professional experience as a Software Engineer, progressi
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -86,7 +86,7 @@ Second Class Upper Division · GPA 3.4
 
 ---
 
-### 📜 Certifications & Courses
+### Certifications & Courses
 - Sololearn — Java, Python for Beginners, Python Data Structures
 - SLASSCOM — Quality Assurance
 - Cisco Networking Academy — JavaScript Essentials 1
