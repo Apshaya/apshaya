@@ -34,7 +34,7 @@ Over **1.5+ years** of professional experience as a Software Engineer, progressi
 
 ---
 
-### 🚀 Professional Projects
+### 🚀 Selected Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
