@@ -48,14 +48,14 @@ Over **1.5+ years** of professional experience as a Software Engineer, progressi
 
 ---
 
-### 🎓 Education
+### Education
 
 **BSc (Hons) Software Engineering** — The Open University of Sri Lanka *(2021 – 2025)*
 Second Class Upper Division · GPA 3.4
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS
 **Backend:** Java, Node.js, Express.js, .NET, Python, RESTful APIs, MVC
