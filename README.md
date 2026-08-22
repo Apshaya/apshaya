@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/Apshaya/Krishan-Apshaya/blob/main/MEe.png" width="140" alt="Krishan Apshaya" />
+<img src="https://github.com/Apshaya/Krishan-Apshaya/blob/main/MEe.png" width="100%" alt="Krishan Apshaya banner" />
 
 # Hi 👋, I'm Krishan Apshaya
 
-### Full-Stack Software Engineer | IoT Cloud Solutions | Microservices Architecture
+### Software Engineer | Full Stack · IoT & Cloud
 
 <img src="https://komarev.com/ghpvc/?username=apshaya&label=Profile%20views&color=0e75b6&style=flat" alt="apshaya profile views" />
 
@@ -14,15 +14,13 @@
 
 ### 🚀 About Me
 
-I'm a passionate Full-Stack Software Engineer specializing in **scalable IoT cloud solutions** and **microservices architecture**. With hands-on experience at **RootLogitech** and currently working at **VisionDesigning**, I build robust backend APIs with Node.js and Python, integrate AWS IoT services (IoT Core, Lambda, SQS, S3), and deploy containerized microservices with Docker and Kubernetes.
+Software Engineer with hands-on experience building full-stack web and mobile applications, AI-powered solutions, APIs, and IoT systems for local and international clients. Skilled in **Java, Node.js, React, Next.js, React Native, TypeScript, and SQL**, with hands-on experience in **AWS Lambda, IoT Core, SQS, S3, and DynamoDB**. Experienced in developing scalable cloud-based applications and end-to-end software solutions.
 
-Currently, I'm expanding into **mobile application development** with React Native and deepening my AWS expertise across DynamoDB and Cognito. I'm also exploring AI-powered solutions, including e-commerce chatbots built with the Grok API.
-
-I thrive in collaborative Agile teams and I'm constantly learning — whether it's mastering new frameworks, exploring DevOps practices, or diving into emerging technologies like blockchain and AI/ML.
-
-- 🔭 Currently working on **IoT cloud platforms & cross-platform mobile apps**
+- 💼 Currently a **Software Engineer at Optergy (Pty) Ltd**
+- 🔭 Previously built full-stack apps at **Vision Designing** and IoT/microservices at **RootLogitech**
 - 🌱 Currently learning **React Native, AWS DynamoDB & Cognito**
-- 🤖 Exploring **AI/ML-powered chatbots (Grok API)**
+- 🤖 Exploring **AI-powered applications with OpenAI API integration**
+- 🎓 **BSc (Hons) Software Engineering** — The Open University of Sri Lanka
 - 👨‍💻 All my projects are available at **[github.com/Apshaya](https://github.com/Apshaya)**
 - 📫 Reach me at **apshayak.101@gmail.com**
 
@@ -65,11 +63,38 @@ I thrive in collaborative Agile teams and I'm constantly learning — whether it
 
 | Category | Technologies |
 |---|---|
-| **Frontend** | React.js, Next.js, React Native, HTML, CSS, JavaScript |
-| **Backend** | Node.js, Express.js, MongoDB, Java, MySQL, PHP, Python, C++ |
-| **Cloud** | AWS IoT Core, Lambda, SQS, S3, DynamoDB, Cognito, Azure IoT Hub |
-| **DevOps** | Docker, Kubernetes, CI/CD *(in progress)* |
-| **Tools** | Visual Studio, Eclipse, IntelliJ IDEA, Jira, GitHub |
+| **Frontend** | React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Java, Node.js, Express.js, .NET, Python, RESTful APIs, MVC |
+| **AI/ML** | OpenAI, AI API Integration, AI-powered Applications |
+| **Cloud & IoT** | AWS Lambda, IoT Core, SQS, S3, DynamoDB, Azure IoT Hub |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Microsoft SQL Server, SQLite |
+| **DevOps & Tools** | Docker, Kubernetes, Git, GitHub, Bitbucket, Postman, Jira, ClickUp |
+| **Testing & Integration** | Jest, Unit/Integration Testing, API Testing, Stripe, JWT, Nodemailer, WhatsApp Integration |
+
+---
+
+### 💼 Work Experience
+
+**Software Engineer** @ Optergy (Pty) Ltd · *Feb 2026 – Jul 2026*
+Full-stack development with Node.js, React, Next.js & RESTful APIs; API/database integration; Agile collaboration.
+
+**Software Engineer** @ Vision Designing (Pvt) Ltd · Kandy, Sri Lanka · *Oct 2025 – Feb 2026*
+React Native mobile apps for iOS & Android; authentication workflows; .NET Web API integration.
+
+**Software Engineer Intern** @ RootLogitech (Pvt) Ltd · Padukka, Sri Lanka · *Oct 2024 – Oct 2025*
+Built 40+ RESTful API endpoints (MVC); IoT/sensor solutions with AWS IoT Core & Azure IoT Hub; Dockerized microservices.
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **RootX** | Node.js, React, Python, AWS IoT Core, Azure IoT Hub, Docker, K8s | IoT device management platform — 10+ devices, 8+ containerized microservices |
+| **Prodora** | Laravel, Filament, PHP, MySQL, Redis, JavaScript | Project collaboration platform with admin management & real-time chat |
+| **Laba Kadee** | Node.js, Express.js, React.js, MySQL, JWT, Stripe, Tailwind | E-commerce platform with auth, role-based access & Stripe checkout |
+| **Ceyltrip** | Next.js, PostgreSQL, Nodemailer, WhatsApp Integration | Travel routes & experience platform with email/WhatsApp integration |
+| **Travel Guide & Experience Platform** | .NET, React.js, MySQL, Docker | Production-ready travel platform with RESTful APIs |
 
 ---
 
