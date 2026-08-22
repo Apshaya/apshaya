@@ -57,7 +57,7 @@ Second Class Upper Division · GPA 3.4
 
 ### Skills
 
-**Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS
+**Frontend:** React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS<br>
 **Backend:** Java, Node.js, Express.js, .NET, Python, RESTful APIs, MVC
 **AI/ML:** OpenAI, AI API Integration, AI-powered Applications
 **Cloud & IoT:** AWS Lambda, IoT Core, SQS, S3, DynamoDB, Azure IoT Hub
