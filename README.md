@@ -14,7 +14,7 @@ Software Engineer with hands-on experience building full-stack web and mobile ap
 </p>
 
 <p align="center">
-  🌐 <a href="https://apshaya.vercel.app/">apshaya.vercel.app</a> &nbsp;|&nbsp;
+  🌐 <a href="https://krishanapshaya.vercel.app/">apshaya.vercel.app</a> &nbsp;|&nbsp;
   📫 <b>apshayak.101@gmail.com</b> &nbsp;|&nbsp;
   👨‍💻 <a href="https://github.com/Apshaya">github.com/Apshaya</a> &nbsp;|&nbsp;
   🔗 <a href="https://www.linkedin.com/in/krishan-apshaya/">linkedin.com/in/krishan-apshaya</a>
